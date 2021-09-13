@@ -4,6 +4,6 @@ This is a projet which is part of the course [PyRat](https://formations.imt-atla
 
 ------------
 
-####Authors :
+#### Authors :
 * Jules Decaestecker
 * Benjamin Karila-Cohen
