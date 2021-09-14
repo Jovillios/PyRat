@@ -4,6 +4,12 @@ This is a projet which is part of the course [PyRat](https://formations.imt-atla
 
 ------------
 
+##### Git Tutorial :
+1. Truc
+
+
+------------
+
 #### Authors :
 * Jules Decaestecker
 * Benjamin Karila-Cohen
